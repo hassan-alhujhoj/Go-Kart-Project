@@ -11,7 +11,7 @@ comparing throttle current (Idemand) with the motor current (Imeasured) that is 
 - Forwad motor current must not exceed 350A. The current-time area above 150A msut not be exceed for more than 100 Amp-seconds.
 - Reverse motor current must not exeed 100A.
 - Average forward motor currrent must not exceedd 150A.
-- no MOSFET can be switched faster than 5kHz.
+- No MOSFET can be switched faster than 5kHz.
 ### Note: Violation of Deisgn Constraints will result in a 5-second shutdown.
 
 ## Important
