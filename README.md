@@ -15,12 +15,12 @@ comparing throttle current (Idemand) with the motor current (Imeasured) that is 
 ### Note: Violation of Deisgn Constraints will result in a 5-second shutdown.
 
 ## Important
-- Forwad motor current must not exceed 350A. The current-time area above 150A msut not be exceed for more than 100 Amp-seconds.
-- Reverse motor current must not exeed 100A.
-- Average forward motor currrent must not exceedd 150A.
-- no MOSFET can be switched faster than 5kHz.
+- The PWM signal which the deiver uses to switch the MOSFETS.
+- The shutdown control S\D\, which disables the MOSFET diver chip.
+- The 24V DC supply from which all pwer supplies must be derived.
+- The current sensor header connections.
 
 ## Contributers
-> - Hassan Ali Alhujhoj
+> - Hassan Alhujhoj
 > - Abdullah Naeem 
 > - Daniel Page
