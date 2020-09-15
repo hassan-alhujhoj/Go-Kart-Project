@@ -20,6 +20,15 @@ comparing throttle current (Idemand) with the motor current (Imeasured) that is 
 - The 24V DC supply from which all pwer supplies must be derived.
 - The current sensor header connections.
 
+## Goals
+### Successfully Producing a PWM using UC3843 chip
+* Voltage swing of 5V (referenced to GND).
+* Rise and fall times < 1us.
+* A PWM switching frequency of 2.5kHz+-10%.
+### A PWM that is controllable via throttle.
+### Implementation of a fixed current mode control.
+### Throttle sets average current and you limit aveage forward current to <150A, peak forward current to <350A and reverse current to <100A.
+
 ## Contributers
 > - Hassan Alhujhoj
 > - Abdullah Naeem 
