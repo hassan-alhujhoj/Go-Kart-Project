@@ -38,8 +38,10 @@ This requires you to sensibly use current feedback provided to you by the LEM se
 should be stable - your PWM should stay reasonably constant for a fixed throttle position and a fixed load. There should be no 
 significant oscillations in any of the control signals.
 
-### Throttle sets average current and you limit aveage forward current to <150A, peak forward current to <350A and reverse current to <100A.
-Note: that you will only get full marks for this requirement if your controller actually attempts to push the average forward current >100A.
+### Throttle average current
+Throttle sets average current and you limit aveage forward current to <150A, peak forward current to <350A and reverse current 
+to <100A.Note: that you will only get full marks for this requirement if your controller actually attempts to push the average 
+forward current >100A.
 
 ## Contributers
 > - Hassan Alhujhoj
