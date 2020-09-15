@@ -1,4 +1,0 @@
-Change Net Name : Old Net Name=V_RT/CT New Net Name=RT/CT
-Added Member To Class: ClassName=Connectors&TestPoints Member=Component PWM TP
-Added Room: Name=Connectors&TestPoints
-Added Room: Name=main

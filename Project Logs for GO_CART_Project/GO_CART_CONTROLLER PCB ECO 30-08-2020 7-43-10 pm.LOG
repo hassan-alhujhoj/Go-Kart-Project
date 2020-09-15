@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=T? NewDesignator=T1
-Added Pin To Net: NetName=PWM_BAR Pin=Q2-3
-Added Pin To Net: NetName=PWM_BAR Pin=R18-1
-Added Pin To Net: NetName=PWM_BAR Pin=TP6-1
-Added Pin To Net: NetName=RC Pin=TP12-1
-Change Net Name : Old Net Name=I_sense_in New Net Name=I_sense
-Change Net Name : Old Net Name=PWM_BAR New Net Name=P\W\M\
-Change Net Name : Old Net Name=RC New Net Name=RT/CT
-Change Net Name : Old Net Name=UC_PWM New Net Name=PWM
