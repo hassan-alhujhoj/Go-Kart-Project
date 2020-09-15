@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=PWM NewDesignator=PWM 
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component PWM  TP

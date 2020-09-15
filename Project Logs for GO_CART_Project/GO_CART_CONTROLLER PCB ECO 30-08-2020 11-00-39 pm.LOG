@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Member From Class: ClassName=main Member=C15
+Removed Member From Class: ClassName=main Member=C16
+Removed Member From Class: ClassName=main Member=C17
+Removed Member From Class: ClassName=main Member=C18
+Change Component Comment : Designator=C18 Old Comment=UPW1E220MDD New Comment=1uF
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C18 NewDesignator=C3
+Change Component Description : Designator=C2 Old Description=CAP ALUM 10UF 20% 100V THRU HOLE New Description=CAP ALUM 10UF 20% 100V THRU HOLE. Part Number: ESL106M100AE3AA. Dia: 6.3mm.
+Change Component Description : Designator=C3 Old Description=CAP ALUM 22UF 20% 25V RADIAL New Description=CAP ALUM 22UF 20% 25V RADIAL. Part Number: UPW1E220MDD. Dia: 5mm.
+Change Component Description : Designator=C1 Old Description=CAP ALUM 100UF 20% 50V THRU HOLE New Description=CAP ALUM 100UF 20% 50V THRU HOLE. Part Number: ESL107M050AGMAA. Dia: 8mm.
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC4_2

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=TP1 NewDesignator=24V
+Change Component Designator: OldDesignator=TP2 NewDesignator=GND1
+Change Component Designator: OldDesignator=TP3 NewDesignator=P\W\M\
+Change Component Designator: OldDesignator=TP4 NewDesignator=15V
+Change Component Designator: OldDesignator=TP5 NewDesignator=GND2
+Change Component Designator: OldDesignator=TP6 NewDesignator=I_sense
+Change Component Designator: OldDesignator=TP7 NewDesignator=5V
+Change Component Designator: OldDesignator=TP8 NewDesignator=GND3
+Change Component Designator: OldDesignator=TP9 NewDesignator=PWM
+Change Component Designator: OldDesignator=TP10 NewDesignator=Vout_LEM
+Change Component Designator: OldDesignator=TP11 NewDesignator=GND4
+Change Component Designator: OldDesignator=TP12 NewDesignator=Vref_LEM
+Change Component Designator: OldDesignator=TP13 NewDesignator=GND5
+Change Component Designator: OldDesignator=TP14 NewDesignator=RT/CT
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component R39 0R
+Added Member To Class: ClassName=main Member=Component U1 L7815CV
+Added Room: Name=Connectors&TestPoints
+Added Room: Name=main

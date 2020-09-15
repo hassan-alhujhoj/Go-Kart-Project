@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Member From Class: ClassName=main Member=R24
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C8
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R8
+Change Component Designator: OldDesignator=R18 NewDesignator=R15
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP1
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP6
+Added Component: Designator=DL2(WL-SMCW0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Forward Current If"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Colour"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Mounting"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060RS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2322071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength Typ"; Value = "625"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DL2-1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR18_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R25-1
+Added Pin To Net: NetName=NetD1_1 Pin=T1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetDL2_2 Pin=DL2-2
+Added Pin To Net: NetName=NetDL2_2 Pin=R25-2
+Added Net: Name=NetDL2_2
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component DL2 Red
+Added Member To Class: ClassName=main Member=Component R13 100K
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component R25 16K

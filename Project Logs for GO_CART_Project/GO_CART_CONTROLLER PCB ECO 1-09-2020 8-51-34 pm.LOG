@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Member From Class: ClassName=main Member=Q2
+Added Component: Designator=Q1(SOT23_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25° C"; Value = "1.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "MOSFET N-Channel, Metal Oxide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) @ Vgs"; Value = "3.4nC @ 4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) @ Vds"; Value = "160pF @ 15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ZXM61N02FTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Max"; Value = "625mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.79, 10=0.658, 25=0.5772, 100=0.4939, 250=0.42836, 500=0.36284, 1000=0.27972 (NZD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "180 mOhm @ 930mA, 4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9525270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "ZXM61N02FCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "700mV @ 250µA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R22-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R15-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R21-1
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=main Member=Component Q1 ZXM61N02FTA
+Added Room: Name=Connectors&TestPoints
+Added Room: Name=main

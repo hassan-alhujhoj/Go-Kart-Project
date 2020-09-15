@@ -1,0 +1,23 @@
+Change Component DesignItemId : Designator=C11 Old DesignItemId=CC_10nF_0603 New DesignItemId=CC_10uF_0603
+Change Component Comment : Designator=C11 Old Comment=10nF New Comment=10uF
+Change Component Description : Designator=C11 Old Description=CAP CER 10nF X7R +-10% 50V 0603 New Description=CAP CER 10UF X5R +-20% 6V3 0603
+Change component parameters: Designator = "C11"; Footprint = "CAPC1608L"; UniqueID = "\XHDCLKQM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Room: Name=Connectors&TestPoints
+Added Room: Name=main

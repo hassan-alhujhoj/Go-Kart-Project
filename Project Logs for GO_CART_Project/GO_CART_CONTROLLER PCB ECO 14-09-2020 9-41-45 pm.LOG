@@ -1,0 +1,21 @@
+Added Component: Designator=BJT_RT/CT(TP_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S1751-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "ProtoPlace"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1478-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1826282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BJT_RT/CT Pin=BJT_RT/CT-1
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component BJT_RT/CT TP
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component PWM TP
+Added Room: Name=Connectors&TestPoints
+Added Room: Name=main

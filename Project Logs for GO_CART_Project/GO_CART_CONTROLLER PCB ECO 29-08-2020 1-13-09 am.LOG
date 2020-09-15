@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RS_100K New DesignItemId=RS_2K2
+Change Component Comment : Designator=R1 Old Comment=100K New Comment=2K2
+Change Component Description : Designator=R1 Old Description=RES 100K OHM 1/10W 5% 0603 SMD New Description=RES 2.2K OHM 1/10W 5% 0603 SMD
+Change component parameters: Designator = "R1"; Footprint = "RESC1608L"; UniqueID = "\NNLRACRV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K2"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=3.125V New Net Name=Vout_LEM

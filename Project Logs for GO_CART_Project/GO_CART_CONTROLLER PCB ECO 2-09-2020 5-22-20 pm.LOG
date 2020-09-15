@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=main Member=R39
+Removed Member From Class: ClassName=main Member=R40
+Removed Member From Class: ClassName=main Member=R41
+Removed Member From Class: ClassName=main Member=R42
+Added Member To Class: ClassName=main Member=Component C3 47uF
+Added Member To Class: ClassName=main Member=Component C8 1uF
+Added Member To Class: ClassName=main Member=Component C9 100nF
+Added Member To Class: ClassName=main Member=Component C10 100nF
+Added Member To Class: ClassName=main Member=Component IC2 LMC6484IN
+Added Member To Class: ClassName=main Member=Component IC3 UC3843BNG
+Added Member To Class: ClassName=main Member=Component R1 150R
+Added Member To Class: ClassName=main Member=Component R2 0R
+Added Member To Class: ClassName=main Member=Component R5 2K2
+Added Member To Class: ClassName=main Member=Component R8 10K
+Added Member To Class: ClassName=main Member=Component R9 10K
+Added Member To Class: ClassName=main Member=Component R10 0R
+Added Member To Class: ClassName=main Member=Component R11 100R
+Added Member To Class: ClassName=main Member=Component R13 100K
+Added Member To Class: ClassName=main Member=Component R14 10K
+Added Member To Class: ClassName=main Member=Component R15 10K
+Added Member To Class: ClassName=main Member=Component R16 0R
+Added Member To Class: ClassName=main Member=Component R17 0R
+Added Member To Class: ClassName=main Member=Component R18 10K
+Added Member To Class: ClassName=main Member=Component R20 10K
+Added Member To Class: ClassName=main Member=Component R24 120K
+Added Member To Class: ClassName=main Member=Component R25 100K
+Added Member To Class: ClassName=main Member=Component R26 10K
+Added Member To Class: ClassName=main Member=Component R27 0R
+Added Member To Class: ClassName=main Member=Component R28 10K
+Added Member To Class: ClassName=main Member=Component R29 10R
+Added Member To Class: ClassName=main Member=Component R30 0R
+Added Member To Class: ClassName=main Member=Component R31 10K
+Added Member To Class: ClassName=main Member=Component RV3 100K
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component TP6 TP
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component TP9 TP
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component TP12 TP
+Added Room: Name=Connectors&TestPoints
+Added Room: Name=main

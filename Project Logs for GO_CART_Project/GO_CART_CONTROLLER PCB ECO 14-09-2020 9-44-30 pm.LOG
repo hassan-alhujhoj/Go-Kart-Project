@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BJT_RT/CT Pin=BJT_RT/CT-1
+Removed Member From Class: ClassName=Connectors&TestPoints Member=BJT_RT/CT
+Added Member To Class: ClassName=Connectors&TestPoints Member=Component PWM TP
+Added Room: Name=Connectors&TestPoints
+Added Room: Name=main

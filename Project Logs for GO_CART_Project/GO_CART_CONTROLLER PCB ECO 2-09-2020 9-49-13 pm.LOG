@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetIC1_1 Pin=IC1-2
+Removed Pin From Net: NetName=NetIC1_8 Pin=IC1-9
+Removed Pin From Net: NetName=NetC8_2 Pin=IC1-10
+Removed Pin From Net: NetName=NetIC2_5 Pin=IC2-5
+Removed Pin From Net: NetName=NetIC1_8 Pin=R4-1
+Removed Pin From Net: NetName=NetIC1_1 Pin=R6-1
+Removed Pin From Net: NetName=NetIC1_13 Pin=R8-1
+Removed Pin From Net: NetName=NetIC1_13 Pin=R9-2
+Removed Pin From Net: NetName=NetIC1_6 Pin=R19-1
+Removed Pin From Net: NetName=NetIC2_6 Pin=R23-1
+Removed Pin From Net: NetName=NetIC2_1 Pin=R28-2
+Removed Pin From Net: NetName=NetIC2_1 Pin=R32-1
+Removed Pin From Net: NetName=NetIC2_3 Pin=R33-2
+Removed Pin From Net: NetName=NetIC2_3 Pin=R34-2
+Removed Pin From Net: NetName=NetIC1_3 Pin=RV1-1
+Added Pin To Net: NetName=NetIC2_5 Pin=IC1-5
+Added Pin To Net: NetName=NetC8_2 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-14
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-2
+Added Pin To Net: NetName=NetIC1_13 Pin=R4-1
+Added Pin To Net: NetName=NetIC2_1 Pin=R6-1
+Added Pin To Net: NetName=NetIC1_8 Pin=R8-2
+Added Pin To Net: NetName=NetIC1_8 Pin=R10-1
+Added Pin To Net: NetName=NetIC2_6 Pin=R19-1
+Added Pin To Net: NetName=NetIC1_6 Pin=R23-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R28-2
+Added Pin To Net: NetName=NetIC1_1 Pin=R32-1
+Added Pin To Net: NetName=NetIC1_3 Pin=R33-2
+Added Pin To Net: NetName=NetIC1_3 Pin=R34-2
+Added Pin To Net: NetName=NetIC2_3 Pin=RV1-1
+Change Net Name : Old Net Name=NetIC2_5 New Net Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R28-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R31-2
+Added Net: Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_9 Pin=IC1-9
+Added Pin To Net: NetName=NetIC1_9 Pin=R8-1
+Added Pin To Net: NetName=NetIC1_9 Pin=R9-2
+Added Net: Name=NetIC1_9
+Added Pin To Net: NetName=NetIC1_10 Pin=IC1-10
+Added Pin To Net: NetName=NetIC1_10 Pin=R12-2
+Added Pin To Net: NetName=NetIC1_10 Pin=R14-2
+Added Net: Name=NetIC1_10
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_5 Pin=RV2-1
+Added Net: Name=NetIC2_5
+Added Room: Name=Connectors&TestPoints
+Added Room: Name=main
