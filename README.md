@@ -7,21 +7,20 @@ The control board is based on the design of a fixed frequency current mode contr
 comparing throttle current (Idemand) with the motor current (Imeasured) that is read a current sensor (LEM HAIS 150P).
 
 ## Requirements
-> ####  Design Constraints (essential for real life limitation for Go Kart electrical vehicles)
-    - Forwad motor current must not exceed 350A. The current-time area above 150A msut not be exceed for more than 100 Amp-seconds.
-    - Reverse motor current must not exeed 100A.
-    - Average forward motor currrent must not exceedd 150A.
-    - no MOSFET can be switched faster than 5kHz.
-
-## Note: Violation of Deisgn Constraints will result in a 5-second shutdown.
+###  Design Constraints (essential for real life limitation for Go Kart electrical vehicles)
+- Forwad motor current must not exceed 350A. The current-time area above 150A msut not be exceed for more than 100 Amp-seconds.
+- Reverse motor current must not exeed 100A.
+- Average forward motor currrent must not exceedd 150A.
+- no MOSFET can be switched faster than 5kHz.
+### Note: Violation of Deisgn Constraints will result in a 5-second shutdown.
 
 ## Important
-    - Forwad motor current must not exceed 350A. The current-time area above 150A msut not be exceed for more than 100 Amp-seconds.
-    - Reverse motor current must not exeed 100A.
-    - Average forward motor currrent must not exceedd 150A.
-    - no MOSFET can be switched faster than 5kHz.
+- Forwad motor current must not exceed 350A. The current-time area above 150A msut not be exceed for more than 100 Amp-seconds.
+- Reverse motor current must not exeed 100A.
+- Average forward motor currrent must not exceedd 150A.
+- no MOSFET can be switched faster than 5kHz.
 
 ## Contributers
-    > - Hassan Ali Alhujhoj
-    > - Abdullah Naeem 
-    > - Daniel Page
+> - Hassan Ali Alhujhoj
+> - Abdullah Naeem 
+> - Daniel Page
