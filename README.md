@@ -16,7 +16,7 @@ comparing throttle current (Idemand) with the motor current (Imeasured) that is 
 
 ## Important
 - The PWM signal which the deiver uses to switch the MOSFETS.
-- The shutdown control S\D\, which disables the MOSFET diver chip.
+- The shutdown control SD, which disables the MOSFET diver chip.
 - The 24V DC supply from which all pwer supplies must be derived.
 - The current sensor header connections.
 
