@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=E62C4447-E0F3-4ACA-95E5-E97E6C011B4D
+VaultGUID=1328F673-6EB5-4326-BD17-7E25444623D5
+ReleaseVaultName=Hassan Alhujhoj
+ItemGUID=E62C4447-E0F3-4ACA-95E5-E97E6C011B4D
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -172,6 +175,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUSDMWGZ
+
+[Document9]
+DocumentPath=GoKartProject.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CBTOCLWO
 
 [Configuration1]
 Name=Sources
