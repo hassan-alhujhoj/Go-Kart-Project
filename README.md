@@ -1,5 +1,5 @@
 # ENEL471 - Go Kart Project
-<img src="C:\Users\Hassan\OneDrive - University of Canterbury\Desktop\Semester2_2020\ENEL471\Go Kart Assignment\GO_CART_PCB\PCB_Project1\PCB_DESIGN/PCBDesign.PNG" alt="Main" width="200"/>
+<img src="https://ibb.co/bXN1DTk" alt="Main" width="200"/>
 
 ## Description
 This project aims to design a control circuit that controls a current signal coming from Go-Kart circuitry.The controller board controls a Driver Board that is then interfaced a Power Circuitry Board that then powers a 3kW DC motor. The control board is based on the design of a fixed frequency current mode controller UC3843. This conroller board works by comparing throttle current (Idemand) with the motor current (Imeasured) that is read a current sensor (LEM HAIS 150P).
