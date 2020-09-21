@@ -2,6 +2,75 @@
 FileName = GO_KART_CONTROLLER.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : GO_KART_CONTROLLER.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D28
+    D29
+    D30
+    D31
+    D36
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : GO_KART_CONTROLLER.GM3
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : GO_KART_CONTROLLER.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : GO_KART_CONTROLLER.GBS
 
@@ -31,17 +100,6 @@ Used DCodes :
     D43
     D44
     D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : GO_KART_CONTROLLER.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D16
 *************************************************************
 
 *************************************************************
@@ -120,65 +178,7 @@ Used DCodes :
     D31
     D36
     D57
-    D59
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : GO_KART_CONTROLLER.GM3
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : GO_KART_CONTROLLER.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D28
-    D29
-    D30
-    D31
-    D36
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
     D58
-    D59
-    D60
-    D61
     D62
     D63
     D64
