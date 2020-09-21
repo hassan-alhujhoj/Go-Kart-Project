@@ -1,5 +1,6 @@
 # ENEL471 - Go Kart Project
 <img src="wiki/main.PNG" alt="Main" width="500"/>
+
 ![Video](wiki/video.gif)
 
 ## Description
