@@ -43,5 +43,5 @@ forward current >100A.
 
 ## Contributers
 - [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
-- [Abdullah Naeem](https://eng-git.canterbury.ac.nz/ana61)
-- [Daniel Page](https://eng-git.canterbury.ac.nz/haa61)
+- [Abdullah Naeem](https://eng-git.canterbury.ac.nz/ana104)
+- [Daniel Page](https://eng-git.canterbury.ac.nz/dwi65)
