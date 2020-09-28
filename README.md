@@ -42,12 +42,6 @@ to <100A.Note: that you will only get full marks for this requirement if your co
 forward current >100A.
 
 ## Contributers
-<<<<<<< HEAD
 - [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
 - [Abdullah Naeem](https://eng-git.canterbury.ac.nz/ana104)
 - [Daniel Page](https://eng-git.canterbury.ac.nz/dwi65)
-=======
-* Hassan Alhujhoj
-* Abdullah Naeem 
-* Daniel Page
->>>>>>> 71679a7a50a1974fde250854a4dcc4773c323ebb
