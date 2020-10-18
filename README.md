@@ -43,5 +43,5 @@ forward current >100A.
 
 ## Contributers
 - [Hassan Alhujhoj](https://github.com/hassan-alhujhoj)
-- [Abdullah Naeem](https://eng-git.canterbury.ac.nz/ana104)
+- [Abdullah Naeem](https://github.com/ana104-collab)
 - [Daniel Page](https://github.com/Daniel-Page)
