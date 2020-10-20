@@ -1,8 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\Hassan\OneDrive - University of Canterbury\Desktop\Semester2_2020\ENEL471\Go Kart Assignment\GO_CART_PCB\PCB_Project1\GO_KART_CONTROLLER.PcbDoc
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance Top Layer|Scope=Board|Minimum=8.00
-RuleKind=Clearance|RuleName=Clearance Bottom Layer|Scope=Board|Minimum=8.00
