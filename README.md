@@ -1,5 +1,5 @@
 # ENEL471 - Go Kart Project
-<img src="wiki/main.PNG" alt="Design" width="600"/><img src="wiki/main2.png" alt="PCB" width="600"/> ![Video](wiki/video.gif)
+<img src="wiki/main.PNG" alt="Design" width="600"/><img src="wiki/main3.jpg" alt="PCB" width="600"/> ![Video](wiki/video.gif)
 
 ## Description
 This project aims to design a control circuit that controls a current signal coming from Go-Kart circuitry.The controller board controls a Driver Board that is then interfaced a Power Circuitry Board that then powers a 3kW DC motor. The control board is based on the design of a fixed frequency current mode controller UC3843. This conroller board works by comparing throttle current (Idemand) with the motor current (Imeasured) that is read a current sensor (LEM HAIS 150P).
@@ -43,5 +43,5 @@ forward current >100A.
 
 ## Contributers
 - [Hassan Alhujhoj](https://github.com/hassan-alhujhoj)
-- [Abdullah Naeem](https://eng-git.canterbury.ac.nz/ana104)
-- [Daniel Page](https://eng-git.canterbury.ac.nz/dwi65)
+- [Abdullah Naeem](https://github.com/ana104-collab)
+- [Daniel Page](https://github.com/Daniel-Page)
