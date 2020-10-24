@@ -1,5 +1,4 @@
-Go Kart Project
-###############
+# Go Kart Project
 <img src="wiki/main.PNG" alt="Design" width="600"/><img src="wiki/main3.jpg" alt="PCB" width="600"/> ![Video](wiki/video.gif)
 
 ## Description
