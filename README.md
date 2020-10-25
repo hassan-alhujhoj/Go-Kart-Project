@@ -38,7 +38,7 @@ significant oscillations in any of the control signals.
 
 ### Throttle average current
 Throttle sets average current and you limit aveage forward current to <150A, peak forward current to <350A and reverse current 
-to <100A.Note: that you will only get full marks for this requirement if your controller actually attempts to push the average 
+to <100A. Note: that you will only get full marks for this requirement if your controller actually attempts to push the average 
 forward current >100A.
 
 ## Contributers
